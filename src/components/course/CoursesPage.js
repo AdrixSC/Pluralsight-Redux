@@ -5,6 +5,7 @@ class CoursesPage extends React.Component {
         return (
             <div>
                 <h1>Courses</h1>
+                <button to="/about" className="btn-dark">BOTON PRUEBA</button>
             </div>
         );
     }
